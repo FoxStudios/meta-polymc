@@ -18,12 +18,12 @@
         },
         {
             "name": "Minecraft",
-            "sha256": "4a834f455b57c28273d015cb386745474f5646579b94ecce349a522172795470",
+            "sha256": "8615d4a6e2a14964d39e96b09f43bbd7e8e25e3191835138d7c943c9901d4a68",
             "uid": "net.minecraft"
         },
         {
             "name": "Forge",
-            "sha256": "3a40b595b76d1ca4d1ba7e72f61ead5b0be506a74507f4a04747c3f5cbc02cdc",
+            "sha256": "6403257c6e08bfe9d8b6623f65dda9122246cd7fca064a7c386ba94618a2da1a",
             "uid": "net.minecraftforge"
         },
         {
