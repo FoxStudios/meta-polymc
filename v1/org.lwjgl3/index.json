@@ -1,0 +1,72 @@
+{
+    "formatVersion": 1,
+    "name": "LWJGL 3",
+    "uid": "org.lwjgl3",
+    "versions": [
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2022-07-06T14:50:46+00:00",
+            "sha256": "39779b21ab77077c08fd3d98c4b84124538eecc9f7cd7d21cb0d70d763e9fd50",
+            "type": "release",
+            "version": "3.3.1",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2019-07-10T12:53:29+00:00",
+            "sha256": "c33988bb3e49b0c4f12d18db5d42ac6f739a722d4cccadf0ac6e68d633f71c88",
+            "type": "release",
+            "version": "3.2.2",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2019-05-13T11:10:12+00:00",
+            "sha256": "ddc8ed0d72743eeb36cbc372177c256b1fd853c2d69c61e495e1dbcaa5f12355",
+            "type": "release",
+            "version": "3.2.1",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2018-11-23T10:46:41+00:00",
+            "sha256": "b4bd0f9daf41bac80fe0ecf9a698c27d985bd8aa7879734eb0ec9183039f6098",
+            "type": "release",
+            "version": "3.1.6",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": true,
+            "releaseTime": "2017-11-08T15:48:00+00:00",
+            "sha256": "c7a0bb0ed3e2234ffd233f8d7b61e1b55b0769a4b97a83e42a33fbc061add19e",
+            "type": "release",
+            "version": "3.1.2",
+            "volatile": true
+        }
+    ]
+}
